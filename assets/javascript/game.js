@@ -24,7 +24,7 @@ document.onkeyup = function(event) {
 				}
 // if user does not guess letter correctly 
 				if (userGuess != computerGuess) {
-					numberofGuesses --;
+					numberOfGuesses --;
 					guessChoices.push(userGuess);
 				}
 // when user runs out of guesses
