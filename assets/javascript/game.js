@@ -39,7 +39,7 @@ document.onkeyup = function(event) {
 // variable html that replaces game id in html file. 
 			var html = 
 			"<h1> The Psychic Game </h1>" +
-			"<p>Guess what letter I'm thinking of!</p>" +
+			"<p>Guess what letter I'm thinking of</p>" +
 			"<p>Wins: " + wins + "</p>" +
 			"<p>Losses: " + losses + "</p>" +
 			"<p>Guesses Left: " + numberOfGuesses + "</p>" +
